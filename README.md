@@ -1,7 +1,7 @@
 ﻿# ColorizeLIB
 
 ## Description
-Colorize is a very very simple, but useful c library for windows. She basically allows you to colorize your terminal using a simple function colorize(backgroundColor, textColor).
+Colorize is a very very simple, but useful c library for windows. This lib basically allows you to colorize your terminal using a simple function colorize(backgroundColor, textColor).
 
 ## Color Reference
  <img src="./Images/ColorizeReference.png"/><br/>
