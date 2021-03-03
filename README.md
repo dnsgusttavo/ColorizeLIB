@@ -4,7 +4,7 @@
 Colorize is a very very simple, but useful c library for windows. She basically allows you to colorize your terminal using a simple function colorize(backgroundColor, textColor).
 
 ## Color Reference
- <img src="https://raw.githubusercontent.com/dnsgusttavo/ColorizeLIB/master/Images/ColorizeReference.png"/><br/>
+ <img src="./Images/ColorizeReference.png"/><br/>
 
 ## Simpler Way
   The first version of colorize can be substituted for this command:
